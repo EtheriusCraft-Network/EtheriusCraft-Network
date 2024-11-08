@@ -37,14 +37,13 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
 -----------------------------------------------------------------------
 -->
 
-<div align="center"> <strong>Contador de Visitantes</strong> <br> <img src="https://profile-counter.glitch.me/EtheriusCraft-Network/count.svg" /> </div>
-
+<div align="center"> <strong>Contador de Visitantes</strong> <br> <img src="https://profile-counter.glitch.me/Densuki/count.svg" /> </div>
 <div>
-  <h2 align="center">👨🏻‍💻『 ✦ 𝐒𝐨𝐛𝐫𝐞 Nós ✦ 』👨🏻‍💻</h2>
+  <h2 align="center">👨🏻‍💻『 ✦ 𝐒𝐨𝐛𝐫𝐞 𝐌𝐢𝐦 ✦ 』👨🏻‍💻</h2>
   <div align="center">
       <h3>
-        <img src="https://img.shields.io/badge/Nome-EtheriusCraft—Network-purple.svg">
-        <img src="https://img.shields.io/badge/Servidor-Minecraft-blue.svg"> 
+        <img src="https://img.shields.io/badge/Nome-Wilkner_Gabriel_do_Prado_Silva-purple.svg">
+        <img src="https://img.shields.io/badge/Estudarei-Ciências_Farmacêuticas-blue.svg"> 
         <img src="https://img.shields.io/badge/Língua-pt_BR-green.svg">
         <img src="https://img.shields.io/badge/País-Brasil-yellow.svg">
       </h3>
@@ -53,7 +52,6 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
   <div align="center">
     <img src="https://imgur.com/Y29t28k.png" alt="Nira_Zutomayo-Darken" align="right" width="40%" height="40%">
   </div>
-<!--
   <div align="left">
     <li>Olá 👋🏻, me chamo <strong>João Gabriel. Sou Brasileiro e tenho 24 anos</strong></li>
     <!--<li>No ambiente virutal atendo pelos Pseudônimos de "<strong>Yukiri Densuki</strong>" e "<strong>Ryusei Orihara"</strong></li>-->
@@ -167,11 +165,11 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
   </h2><br>
 
   <div align="center">
-  <img height="180em" alt="Github Stats - EtheriusCraft—Network" src="https://github-readme-stats.vercel.app/api?username=EtheriusCraft-Network&show_icons=true&locale=pt-br&show=discussions_started,discussions_answered&hide=prs,contribs&count_private=true&theme=aura&hide_border=false#gh-dark-mode-only"/>
+  <img height="180em" alt="Github Stats - Densuki" src="https://github-readme-stats.vercel.app/api?username=Densuki&show_icons=true&locale=pt-br&show=discussions_started,discussions_answered&hide=prs,contribs&count_private=true&theme=aura&hide_border=false#gh-dark-mode-only"/>
   <!-- 
   <img width="450" align="right" alt="Github Stats - Densuki" src="https://github-readme-stats.vercel.app/api?username=Densuki&show_icons=true&locale=pt-br&border_radius=10&show=discussions_started,discussions_answered&hide=prs,contribs&theme=tokyonight#gh-light-mode-only"/> 
   -->
-  <img height="180em" alt= "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=EtheriusCraft-Network&layout=compact&langs_count=4&locale=pt-br&theme=aura&hide_border=false" />
-  <img align= "center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=EtheriusCraft-Network&locale=pt-br&theme=aura&hide_border=false" />
+  <img height="180em" alt= "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Densuki&layout=compact&langs_count=4&locale=pt-br&theme=aura&hide_border=false" />
+  <img align= "center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Densuki&locale=pt-br&theme=aura&hide_border=false" />
   </div>
 </div>
