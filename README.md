@@ -172,6 +172,6 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
   <img width="450" align="right" alt="Github Stats - Densuki" src="https://github-readme-stats.vercel.app/api?username=Densuki&show_icons=true&locale=pt-br&border_radius=10&show=discussions_started,discussions_answered&hide=prs,contribs&theme=tokyonight#gh-light-mode-only"/> 
   -->
   <img height="180em" alt= "Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=EtheriusCraft-Network&layout=compact&langs_count=4&locale=pt-br&theme=aura&hide_border=false" />
-  <img align= "center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=Densuki&locale=pt-br&theme=aura&hide_border=false" />
+  <img align= "center" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com?user=EtheriusCraft-Network&locale=pt-br&theme=aura&hide_border=false" />
   </div>
 </div>
