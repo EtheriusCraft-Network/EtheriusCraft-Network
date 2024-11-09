@@ -84,8 +84,7 @@ https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;bas
     <p align="center">
       <strong>
          Tenho interesse em aprofundar meus conhecimentos na medicina, criando soluções para muitas doenças da atualidade. <br>
-         Desejo fundar a EtheriusCraft, juntamente com Densuki, e tornar os nossos sonhos de servidores incriveis e inusitados<br>
-         na realidade de muitos jogadores.<br>
+         Desejo fundar a EtheriusCraft, juntamente com Densuki, e tornar os nossos sonhos de servidores incriveis e inusitados na realidade de muitos jogadores.<br>
          E, por fim, desejo lançar minha série de livros Os celestiais, para que essas histórias fiquem eternizadas no coração das pessoas.
       </strong>
     </p>
